@@ -1,0 +1,26 @@
+main{
+    min-height: 100vh;
+    background: linear-gradient(to right top,aqua , aquamarine);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+   display:flex;
+     justify-content: center;
+     align-items: center;
+}
+.Glass{
+   background: white;
+    min-height: 60vh;
+    width: 60%;
+    background: linear-gradient(to right bottom, rgba(255,255,255,0.7), rgba(255,255,255,0.3));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#slider{
+    width: 400px; 
+    height: 500px; 
+    
+}
